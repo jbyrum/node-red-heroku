@@ -16,5 +16,6 @@
       "value": ""
     }
   },
-  "addons": [ "mongolab" ]
+  "addons": [ "mongolab" ],
+  "stack": "heroku-16"
 }
